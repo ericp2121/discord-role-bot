@@ -34,4 +34,4 @@ bot.on('message',(message) => {
 
 });
 
-bot.login('NzUyOTAyMDQxOTMxODc0NDI2.X1eYqw.DCcMBTM6irHa0adnLpPeq57T_m8');
+bot.login('');
