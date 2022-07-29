@@ -16,17 +16,17 @@ bot.on('message',(message) => {
         message.member.roles.add(computer_engineering_role);
         message.reply('You now have the computer engineering role');
     }
-    else if (message.content == '!role seg')
+    else if (message.content === '!role seg')
     {
         message.member.roles.add(software_engineering_role);
         message.reply('You now have the software engineering role');
     }
-    else if (message.content == '!role cs')
+    else if (message.content === '!role cs')
     {
         message.member.roles.add(computer_science_role);
         message.reply('You now have the computer science role');
     }
-    else if (message.content == '!role ee')
+    else if (message.content === '!role ee')
     {
         message.member.roles.add(electrical_engineering_role);
         message.reply('You now have the electrical engineering role');
