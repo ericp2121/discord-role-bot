@@ -1,5 +1,5 @@
 {
-  "name": "discordbot",
+  "name": "discordbot ",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,3 +13,5 @@
     "save": "^2.4.0"
   }
 }
+
+
